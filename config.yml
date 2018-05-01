@@ -1,0 +1,4 @@
+apply:
+  - index.html
+source: source/
+target: ready/

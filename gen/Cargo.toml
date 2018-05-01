@@ -1,0 +1,11 @@
+[package]
+name = "gen"
+version = "0.1.0"
+authors = ["Sam Sartor <me@samsartor.com>"]
+
+[dependencies]
+serde = "^1.0"
+serde_derive = "^1.0"
+serde_yaml = "0.7"
+handlebars = "0.32"
+failure = "0.1"

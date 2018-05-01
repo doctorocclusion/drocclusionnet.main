@@ -1,0 +1,7 @@
+/ready/node_modules
+/ready/yarn.lock
+/ready/.cache
+/ready/dist
+/gen/target/
+/gen/Cargo.lock
+*.log

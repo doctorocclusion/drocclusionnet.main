@@ -1,0 +1,16 @@
+{
+  "name": "samsartorcom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:samsartor/samsartor.com.git",
+  "author": "Sam Sartor <me@samsartor.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "popper.js": "^1.14.3",
+    "jquery": "^3.3.1",
+    "bootstrap": "4.0.0",
+    "node-sass": "4.7.2",
+    "parcel-bundler": "1.7.0",
+    "parcel-plugin-cargo-web": "^0.2.0"
+  }
+}
